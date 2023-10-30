@@ -10,7 +10,9 @@
 
 - 💬 Ask me about **REACT JS, NEXT JS & Tailwind CSS, Python, PowerBI & Data Analysis**
 
-- 📫 How to reach me **samuelmweu072@gmail.com**
+- 📫 How to reach me **samuelmweu072@gmail.com** 
+
+- 📫 To view my projects and try my live apps go to https://huggingface.co/spaces/supernovamutinda/samuelMutindaPortifolio
 
 <p align="left"> <a href="https://github.com/supernovamax/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=supernova" alt="supernovamax" /></a> </p>
 
