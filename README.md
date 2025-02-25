@@ -4,11 +4,11 @@
 <img align="right" alt="codding" width="300" height="300" src="https://cdn.dribbble.com/users/44515/screenshots/3223431/hoc-dribbble-svg.gif"/>
 <br/>
 
-- 🔭 I’m currently working on **Campus Students AI Assistant**
+- 🔭 I’m currently working on **E-Shop Kenya Platform**
 
-- 🌱 I’m currently learning **LLM Fine-tuning and Embedding**
+- 🌱 I’m currently learning **Unity Game Engine; User-Input Schematics**
 
-- 💬 Ask me about **REACT JS, NEXT JS & Tailwind CSS, Python, PowerBI & Data Analysis**
+- 💬 Ask me about **ERPNEXT, NEXT JS & Tailwind CSS, Python, PowerBI & Data Analysis**
 
 - 📫 How to reach me **samuelmweu072@gmail.com** 
 
